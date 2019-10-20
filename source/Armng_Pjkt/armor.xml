@@ -1,0 +1,4927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<armor_manager>
+
+
+-<location>
+
+<name>Head</name>
+
+<name>Torso</name>
+
+<name>Arms</name>
+
+<name>Legs</name>
+
+</location>
+
+
+-<head_armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Armet Helmet">
+
+<name>Armet Helmet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Face‡, Lower Head, Neck</name>
+
+<location>[1,2,3,4]</location>
+
+</coverage>
+
+<qualities> Hard, Moveable, Restrictive 2 </qualities>
+
+<restrictive>2</restrictive>
+
+<wt>4</wt>
+
+<pp>-2</pp>
+
+<cost>2gp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Barbute">
+
+<name>Barbute</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Face‡ 1/2, Lower Head</name>
+
+<location>[1,2,3]</location>
+
+<halflocation>2</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>-1</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Bascinet">
+
+<name>Bascinet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower head, Wear Great helm for Layer 1. +1 AV vs Downward Swings</name>
+
+<location>[1,2]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Burgonet">
+
+<name>Burgonet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Hed, +1 AV vs downward swings</name>
+
+<location>[1,3]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>-1</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Close Helmet">
+
+<name>Close Helmet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Full Head, Face‡, Neck</name>
+
+<location>[1,2,3,4]</location>
+
+</coverage>
+
+<qualities>Hard, Movable</qualities>
+
+<wt>3.5</wt>
+
+<pp>-1</pp>
+
+<cost>3 gp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Closed Sallet">
+
+<name>Closed Sallet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Face‡, Lower Head 1/2. No AV on face vs upwards swings</name>
+
+<location>[1,2]</location>
+
+<halflocation>3</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>-1</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Conical Helm">
+
+<name>Conical Helm</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, +2 AV vs downward swings</name>
+
+<location>[1]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Great Bascinet">
+
+<name>Great Bascinet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Full Head, Face‡, no av on face vs upward swings</name>
+
+<location>[1,2]</location>
+
+<halflocation>3</halflocation>
+
+</coverage>
+
+<qualities>Hard, Movable, Restrictive 2</qualities>
+
+<restrictive>2</restrictive>
+
+<wt>3.5</wt>
+
+<pp>-2</pp>
+
+<cost>15 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Great Helm">
+
+<name>Great Helm</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Full Head, Face‡, Neck‡, Wear Skullcap or bascinet for Layer 1</name>
+
+<location>[1,2,3,4]</location>
+
+</coverage>
+
+<qualities>Hard, Restrictive 3</qualities>
+
+<restrictive>3</restrictive>
+
+<wt>5</wt>
+
+<pp>-3</pp>
+
+<cost>30 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Hat/Cap">
+
+<name>Hat/Cap</name>
+
+<type>Textile</type>
+
+<avc>1</avc>
+
+<avp>1</avp>
+
+<avb>1</avb>
+
+
+-<coverage>
+
+<name>Upper Head</name>
+
+<location>[1]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 cp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Kettle Helm">
+
+<name>Kettle Helm</name>
+
+<type>Textile</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lowerhead 1/2, No AV vs Upward Swings</name>
+
+<location>1</location>
+
+<halflocation>3</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Lamellar Pot Helm">
+
+<name>Lamellar Pot Helm</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head</name>
+
+<location>[1,3]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>-1</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Leather Pot Helm">
+
+<name>Leather Pot Helm</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head</name>
+
+<location>[1,3]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>1</wt>
+
+<pp>-1</pp>
+
+<cost>10 cp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Leather Skullcap">
+
+<name>Leather Skullcap</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Upper Head</name>
+
+<location>1</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>6 cp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Morion">
+
+<name>Morion</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head 1/2, +1 AV vs downwards swings</name>
+
+<location>1</location>
+
+<halflocation>3</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Open Sallet">
+
+<name>Open Sallet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head 1/2</name>
+
+<location>1</location>
+
+<halflocation>3</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Quilted Helmet">
+
+<name>Quilted Helmet</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>4</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head</name>
+
+<location>[1,3]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>8 cp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Reinforced Roman Helmet">
+
+<name>Reinforced Roman Helmet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head, Neck 1/2, Shoulders 1/2, +4 AV on Upper Head</name>
+
+<location>[1,3]</location>
+
+<halflocation>[4,5]</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Roman Helm (Gallic Style)">
+
+<name>Roman Helm (Gallic Style)</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head, Neck 1/2, Shoulders 1/2</name>
+
+<location>[1,3]</location>
+
+<halflocation>[4,5]</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>15 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Skullcap">
+
+<name>Skullcap</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Wear Great Helm for Layer 1</name>
+
+<location>1</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Stechhelm">
+
+<name>Stechhelm</name>
+
+<type>Plate</type>
+
+<avc>10</avc>
+
+<avp>9</avp>
+
+<avb>8</avb>
+
+
+-<coverage>
+
+<name>Full Head, Neck, +4 AV on Lower Head, Face, Neck.</name>
+
+<location>[1,2,3,4]</location>
+
+</coverage>
+
+<qualities>Hard, Restrictive 3</qualities>
+
+<restrictive>3</restrictive>
+
+<wt>8</wt>
+
+<pp>-3</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Tailed Sallet">
+
+<name>Tailed Sallet</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Face‡, Lower Head 1/2, Neck 1/2, Shoulders 1/2, No AV ON FACE VS Upward Swings</name>
+
+<location>[1,2]</location>
+
+<halflocation>[3,4,5]</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>-1</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Zischagge/Szyszak">
+
+<name>Zischagge/Szyszak</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head, Neck 1/2, Shoulders 1/2, +4 AV on Upper Head</name>
+
+<location>[1,2,3]</location>
+
+<halflocation>[4,5]</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+</head_armor>
+
+
+-<visors>
+
+<!--SPACESPACESPACESPACESPACESPACESPACESPACESPACE-->
+
+
+
+-<armor id="Bar-Nasel">
+
+<name>Bar-Nasel</name>
+
+<type>Plate</type>
+
+<avc>4</avc>
+
+<avp>2</avp>
+
+<avb>1</avb>
+
+
+-<coverage>
+
+<name>Face‡, no AV on face vs upward swings</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Cage Visor">
+
+<name>Cage Visor</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>3</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Face‡</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard, Moveable</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Falling Buff (Hinged Gorget)">
+
+<name>Falling Buff (Hinged Gorget)</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Face‡, neck</name>
+
+<location>[2,4]</location>
+
+</coverage>
+
+<qualities>Hard, Moveable, Restrictive 2</qualities>
+
+<restrictive>2</restrictive>
+
+<wt>2</wt>
+
+<pp>1</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Full Visor">
+
+<name>Full Visor</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Face‡</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard, Moveable, Restrictive 2</qualities>
+
+<restrictive>2</restrictive>
+
+<wt>1.5</wt>
+
+<pp>1</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Goggle Type">
+
+<name>Goggle Type</name>
+
+<type>Plate</type>
+
+<avc>5</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Face‡, no AV on face vs upward swings</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0.5</wt>
+
+<pp>1</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Ventail">
+
+<name>Mail Ventail</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Face‡</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<wt>1.5</wt>
+
+<layer>1</layer>
+
+<pp>1</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Tri-Bar Nasel">
+
+<name>Tri-Bar Nasel</name>
+
+<type>Plate</type>
+
+<avc>6</avc>
+
+<avp>3</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Face‡, no AV on face vs upward swings</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+</visors>
+
+
+-<nonhelmet_head_armor>
+
+
+-<armor id="Lamellar Ventail">
+
+<name>Lamellar Ventail</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Face‡, neck</name>
+
+<location>[2,4]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>1</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Camail">
+
+<name>Mail Camail</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Lower Head, neck, shoulders</name>
+
+<location>[3,4,5]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Coif">
+
+<name>Mail Coif</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head, Neck</name>
+
+<location>[1,3,4]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Camail">
+
+<name>Quilted Camail</name>
+
+<type>Quilted Camail</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Lower Head, Neck, Shoulders</name>
+
+<location>[3,4,5]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>8 cp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Coif">
+
+<name>Quilted Coif</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Upper Head, Lower Head, Neck</name>
+
+<location>[1,3,4]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Ventail">
+
+<name>Quilted Ventail</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Face‡</name>
+
+<location>2</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>-1</pp>
+
+<cost>1 cp</cost>
+
+</armor>
+
+
+-<armor id="Steel Facemask">
+
+<name>Steel Facemask</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Face‡</name>
+
+<location>1</location>
+
+</coverage>
+
+<qualities>Hard, Restrictive</qualities>
+
+<restrictive>1</restrictive>
+
+<wt>2</wt>
+
+<pp>1</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+</nonhelmet_head_armor>
+
+
+-<neck>
+
+
+-<armor id="Bevor">
+
+<name>Bevor</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Face‡, lower head, neck</name>
+
+<location>[2,3,4]</location>
+
+</coverage>
+
+<qualities>Hard, Restrictive 1</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+
+-<armor id="Gorget">
+
+<name>Gorget</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Neck</name>
+
+<location>4</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Neck-Stock">
+
+<name>Leather Neck-Stock</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Neck</name>
+
+<location>4</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>8 cp</cost>
+
+</armor>
+
+
+-<armor id="Neck-Wrap (Scarf)">
+
+<name>Neck-Wrap (Scarf)</name>
+
+<type>Textile</type>
+
+<avc>1</avc>
+
+<avp>1</avp>
+
+<avb>1</avb>
+
+
+-<coverage>
+
+<name>Neck</name>
+
+<location>4</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 cp</cost>
+
+</armor>
+
+
+-<armor id="Reinforced Leather Neck-Stock">
+
+<name>Reinforced Leather Neck-Stock</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Neck</name>
+
+<location>4</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+</neck>
+
+
+-<torso>
+
+
+-<armor id="Breastplate">
+
+<name>Breastplate</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Chest, Belly, Sides</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Cuirass">
+
+<name>Cuirass</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Chest, Belly, Sides, Upper back, Lower back</name>
+
+<location>[6,7,8,19,20]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Codpiece">
+
+<name>Codpiece</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Groin. Protects your Cock</name>
+
+<location>10</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Fauld">
+
+<name>Fauld</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Hips‡, Groin‡, Thighs‡</name>
+
+<location>[9,10,15]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<layer>2</layer>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Heartguard">
+
+<name>Heartguard</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Chest‡</name>
+
+<location>6</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Mirror Plate">
+
+<name>Mirror Plate</name>
+
+<type>Plate</type>
+
+<avc>10</avc>
+
+<avp>9</avp>
+
+<avb>8</avb>
+
+
+-<coverage>
+
+<name>Chest‡</name>
+
+<location>6</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Breastplate">
+
+<name>Munitions Breastplate</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Chest</name>
+
+<location>6</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Cuirass">
+
+<name>Munitions Cuirass</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Chest‡, Belly‡, Sides‡</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3.5</wt>
+
+<pp>0</pp>
+
+<cost>15 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Fauld">
+
+<name>Munitions Fauld</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Hips‡, Groin‡, Thighs‡</name>
+
+<location>[9,10,15]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1</qualities>
+
+<layer>1</layer>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Plackart">
+
+<name>Plackart</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Chest‡, Belly‡, Sides‡</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 2 (Belly, Sides) </qualities>
+
+<layer>2</layer>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Cuirass">
+
+<name>Anima Cuirass</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Chest, Belly, Sides</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>48 sp</cost>
+
+</armor>
+
+
+-<armor id="Anima Fauld">
+
+<name>Anima Fauld</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin‡, Thighs‡</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Cuirass">
+
+<name>Laminar Cuirass</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Chest‡, Belly‡, Sides‡</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Segmented Tassets">
+
+<name>Segmented Tassets</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin</name>
+
+<location>[9,10]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Coat">
+
+<name>Brigandine Coat</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>3 gp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Shirt">
+
+<name>Brigandine Shirt</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Tighs</name>
+
+<location>[6,7,8,9,10,15]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>30 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Vest">
+
+<name>Brigandine Vest</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Coat">
+
+<name>Lamellar Coat</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>3 gp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Shirt">
+
+<name>Lamellar Shirt</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs</name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Vest">
+
+<name>Lamellar Vest</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Mail Coat">
+
+<name>Mail Coat</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Mail Shirt">
+
+<name>Mail Shirt</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs, </name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Mail Vest">
+
+<name>Mail Vest</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>18 sp</cost>
+
+</armor>
+
+
+-<armor id="Heavy Quilted Coat">
+
+<name>Heavy Quilted Coat</name>
+
+<type>Textile</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Heavy Quilted Shirt">
+
+<name>Heavy Quilted Shirt</name>
+
+<type>Textile</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs</name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Heavy Quilted Vest">
+
+<name>Heavy Quilted Vest</name>
+
+<type>Textile</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Coat">
+
+<name>Quilted Coat</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>17 cp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Shirt">
+
+<name>Quilted Shirt</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs</name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Vest">
+
+<name>Quilted Vest</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>5 cp</cost>
+
+</armor>
+
+
+-<armor id="Leather Buffcoat">
+
+<name>Leather Buffcoat</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Jack">
+
+<name>Leather Jack</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs, Knees</name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Coat">
+
+<name>Leather Lamellar Coat</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Shoulders, Hips, Groin, Thighs, Knees</name>
+
+<location>[5,6,7,8,9,10,15,16,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>9 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Shirt">
+
+<name>Leather Lamellar Shirt</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Hips, Groin, Thighs</name>
+
+<location>[6,7,8,9,10,15,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>6 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Vest">
+
+<name>Leather Lamellar Vest</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Vest">
+
+<name>Leather Vest</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Full Torso</name>
+
+<location>[6,7,8,9,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Breastplate">
+
+<name>Hardened Leather Breastplate</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Chest, Belly, Sides</name>
+
+<location>[6,7,8]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Cuirass">
+
+<name>Hardened Leather Cuirass</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Chest, Belly, Sides, Upper Back, Lower Back</name>
+
+<location>[6,7,8,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Shagreen Greatcoat">
+
+<name>Shagreen Greatcoat</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Full Torso, Full Arms, Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[5,6,7,8,9,10,11,12,13,14,15,16,17,19,20]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+</torso>
+
+
+-<arms>
+
+
+-<armor id="Besagews">
+
+<name>Besagews</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Shoulders(Th), Upper Arms 1/2 (Th). When layered with spaulders use besagews value against Thu</name>
+
+<location>5</location>
+
+<halflocation>11</halflocation>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Couters">
+
+<name>Couters</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Elbows‡</name>
+
+<location>12</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Gauntlets">
+
+<name>Gauntlets</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Hands‡</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Jack Chains">
+
+<name>Jack Chains</name>
+
+<type>Plate</type>
+
+<avc>6</avc>
+
+<avp>0</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Upper Arms‡, Elbows‡, Forearms‡. No AV against Th attacks of any damage type</name>
+
+<location>[11,12,13]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Pauldrons">
+
+<name>Munitions Pauldrons</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Shoulders‡, Upper Arms‡</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>4</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Rerebraces">
+
+<name>Munitions Rerebraces</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Upper Arms‡</name>
+
+<location>11</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Spaulders">
+
+<name>Munitions Spaulders</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shoulders‡, Upper Arms 1/2 ‡, Half AV against Th to shoulders</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Vambraces">
+
+<name>Munitions Vambraces</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Forearms‡</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Pauldrons">
+
+<name>Pauldrons</name>
+
+<type>Plate</type>
+
+<avc>10</avc>
+
+<avp>9</avp>
+
+<avb>8</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms‡</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard, Bulletproof</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Rerebraces">
+
+<name>Rerebraces</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Upper Arms</name>
+
+<location>11</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Spaulders">
+
+<name>Spaulders</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Shoulders‡, Upper Arms‡ 1/2, Half AV against Th to shoulders</name>
+
+<location>[5, 11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>6 sp</cost>
+
+</armor>
+
+
+-<armor id="Vambraces">
+
+<name>Vambraces</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Forearms</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Anima Pauldrons">
+
+<name>Anima Pauldrons</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5, 11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Rerebraces">
+
+<name>Anima Rerebraces</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Upper Arms</name>
+
+<location>11</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Spaulders">
+
+<name>Anima Spaulders</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper arms‡ 1/2, Half AV against Th to shoulders</name>
+
+<location>[5, 11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Vambrace">
+
+<name>Anima Vambrace</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Forearms</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>3 gp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Forearm Guard">
+
+<name>Laminar Forearm Guard</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Forearms‡</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Elbow Joint">
+
+<name>Laminar Elbow Joint</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Elbows‡</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Pauldrons">
+
+<name>Laminar Pauldrons</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shoulders‡, Upper Arms‡</name>
+
+<location>[5, 11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Rerebraces">
+
+<name>Laminar Rerebraces</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Upper Arms‡</name>
+
+<location>11</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Gloves">
+
+<name>Brigandine Gloves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Long Sleeves">
+
+<name>Brigandine Long Sleeves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>2 gp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Short Sleeves">
+
+<name>Brigandine Short Sleeves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>14 sp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Gloves">
+
+<name>Lamellar Gloves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Long Sleeves">
+
+<name>Lamellar Long Sleeves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>4</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Short Sleeves">
+
+<name>Lamellar Short Sleeves</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Gloves">
+
+<name>Mail Gloves</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Long Sleeves">
+
+<name>Mail Long Sleeves</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Mail Short Sleeves">
+
+<name>Mail Short Sleeves</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>0.5</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Gloves">
+
+<name>Quilted Gloves</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 cp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Long Sleeves">
+
+<name>Quilted Long Sleeves</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>6 cp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Short Sleeves">
+
+<name>Quilted Short Sleeves</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 cp</cost>
+
+</armor>
+> 
+
+-<armor id="Reinforced Quilted Gloves">
+
+<name>Reinforced Quilted Gloves</name>
+
+<type>Textile</type>
+
+<avc>4</avc>
+
+<avp>4</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Pauldrons">
+
+<name>Hardened Leather Pauldrons</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms‡</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Rerebraces">
+
+<name>Hardened Leather Rerebraces</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Upper Arms</name>
+
+<location>11</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Vambraces">
+
+<name>Hardened Leather Vambraces</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Forearms</name>
+
+<location>13</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Gloves">
+
+<name>Leather Gloves</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Sleeves">
+
+<name>Leather Sleeves</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Long Sleeves">
+
+<name>Leather Lamellar Long Sleeves</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms, Elbows, Forearms</name>
+
+<location>[5,11,12,13]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Short Sleeves">
+
+<name>Leather Lamellar Short Sleeves</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shoulders, Upper Arms</name>
+
+<location>[5,11]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Reinforced Leather Gloves">
+
+<name>Reinforced Leather Gloves</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Hands</name>
+
+<location>14</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+</arms>
+
+
+-<legs>
+
+
+-<armor id="Cuisses">
+
+<name>Cuisses</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Thighs</name>
+
+<location>15</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Greaves">
+
+<name>Greaves</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Shins</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>6 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Cuisses">
+
+<name>Munitions Cuisses</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Thighs‡</name>
+
+<location>15</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Munitions Greaves">
+
+<name>Munitions Greaves</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>6</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shins‡</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Poleyns">
+
+<name>Poleyns</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Knees‡</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Sabatons">
+
+<name>Sabatons</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>6</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>5 sp</cost>
+
+</armor>
+
+
+-<armor id="Anima Cuisses">
+
+<name>Anima Cuisses</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Thighs</name>
+
+<location>15</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Greaves">
+
+<name>Anima Greaves</name>
+
+<type>Plate</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Shins</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>1 gp</cost>
+
+</armor>
+
+
+-<armor id="Anima Poleyns">
+
+<name>Anima Poleyns</name>
+
+<type>Laminar</type>
+
+<avc>7</avc>
+
+<avp>7</avp>
+
+<avb>7</avb>
+
+
+-<coverage>
+
+<name>Knees</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Boots">
+
+<name>Laminar Boots</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>2</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Cuisses">
+
+<name>Laminar Cuisses</name>
+
+<type>Laminar</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Thighs</name>
+
+<location>15</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Laminar Greaves">
+
+<name>Laminar Greaves</name>
+
+<type>Plate</type>
+
+<avc>8</avc>
+
+<avp>7</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Shins</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>4 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Boots">
+
+<name>Brigandine Boots</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Brigandine Leggings">
+
+<name>Brigandine Leggings</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>6</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[9,10,15,16,17]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Leggings">
+
+<name>Lamellar Leggings</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[9,10,15,16,17]</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>3</wt>
+
+<pp>0</pp>
+
+<cost>12 sp</cost>
+
+</armor>
+
+
+-<armor id="Lamellar Boots">
+
+<name>Lamellar Boots</name>
+
+<type>Mail</type>
+
+<avc>5</avc>
+
+<avp>5</avp>
+
+<avb>5</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>Hard</qualities>
+
+<wt>1.5</wt>
+
+<pp>0</pp>
+
+<cost>10 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Boots">
+
+<name>Mail Boots</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>1</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Groin Gusset">
+
+<name>Mail Groin Gusset</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Groin</name>
+
+<location>10</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Mail Leggings">
+
+<name>Mail Leggings</name>
+
+<type>Mail</type>
+
+<avc>6</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[9,10,15,16,17]</location>
+
+</coverage>
+
+<qualities>Hard, Layer 1, Mail</qualities>
+
+<layer>1</layer>
+
+<wt>2.5</wt>
+
+<pp>0</pp>
+
+<cost>8 sp</cost>
+
+</armor>
+
+
+-<armor id="Quilted Leggings">
+
+<name>Quilted Leggings</name>
+
+<type>Textile</type>
+
+<avc>2</avc>
+
+<avp>3</avp>
+
+<avb>4</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[9,10,15,16,17]</location>
+
+</coverage>
+
+<qualities>Textile</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 cp</cost>
+
+</armor>
+
+
+-<armor id="Leather Boots">
+
+<name>Leather Boots</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Feet</name>
+
+<location>18</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Leggings">
+
+<name>Leather Leggings</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>2</avp>
+
+<avb>2</avb>
+
+
+-<coverage>
+
+<name>Hips, Groin, Thighs, Knees, Shins</name>
+
+<location>[9,10,15,16,17]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>2 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Cuisses">
+
+<name>Hardened Leather Cuisses</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Hips, Thighs</name>
+
+<location>[9,15]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>8 cp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Leather Greaves">
+
+<name>Hardened Leather Greaves</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shins</name>
+
+<location>17</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>1 sp</cost>
+
+</armor>
+
+
+-<armor id="Hardened Knee-Guards">
+
+<name>Hardened Knee-Guards</name>
+
+<type>Leather</type>
+
+<avc>4</avc>
+
+<avp>3</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Knees</name>
+
+<location>16</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>6 cp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Cuisses">
+
+<name>Leather Lamellar Cuisses</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Hips, Thighs</name>
+
+<location>[9,15]</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+
+-<armor id="Leather Lamellar Greaves">
+
+<name>Leather Lamellar Greaves</name>
+
+<type>Leather</type>
+
+<avc>3</avc>
+
+<avp>4</avp>
+
+<avb>3</avb>
+
+
+-<coverage>
+
+<name>Shins</name>
+
+<location>17</location>
+
+</coverage>
+
+<qualities>N/A</qualities>
+
+<wt>0</wt>
+
+<pp>0</pp>
+
+<cost>3 sp</cost>
+
+</armor>
+
+</legs>
+
+</armor_manager>
