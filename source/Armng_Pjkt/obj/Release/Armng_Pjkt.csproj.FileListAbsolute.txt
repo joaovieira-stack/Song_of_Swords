@@ -1,0 +1,13 @@
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\bin\Release\Armng_Pjkt.exe.config
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\bin\Release\Armng_Pjkt.exe.manifest
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\bin\Release\Armng_Pjkt.application
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\bin\Release\Armng_Pjkt.exe
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\bin\Release\Armng_Pjkt.pdb
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.Armor_Picker.resources
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.Base_Form.resources
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.Properties.Resources.resources
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.csproj.GenerateResource.Cache
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.exe.manifest
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.application
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.exe
+C:\Users\Jarv\Desktop\Armor Manager\Armng_Pjkt\Armng_Pjkt\obj\Release\Armng_Pjkt.pdb
